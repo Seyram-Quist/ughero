@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="transBluePoly">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dff0000</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>QGISexport</name>
+      <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+-2.30830002269682,6.47738687210639,0.0 -2.30981264283048,6.47713807639063,0.0 -2.31027944374942,6.4763191143419,0.0 -2.31037573303887,6.47506127573308,0.0 -2.31051632477688,6.47322603535501,0.0 -2.30864143630954,6.47206094357925,0.0 -2.30846712071963,6.47231564980726,0.0 -2.30799348947434,6.47247210860754,0.0 -2.30664588331211,6.47531110698129,0.0 -2.30642031302572,6.47612630849434,0.0 -2.30732323471283,6.47684902283128,0.0 -2.30830002269682,6.47738687210639,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
